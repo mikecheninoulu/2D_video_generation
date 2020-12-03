@@ -2,7 +2,7 @@
 
 ## STOTA methods
 
-***video level processing
+***video level processing***
 
 **[1] First Order Motion Model for Image Animation**
 - intro: NeurIPS 2019, solid work, baseline, Aliaksandr
@@ -45,7 +45,8 @@
 - project: https://www.youtube.com/watch?v=Rq5U5Abj47I&feature=youtu.be
 
 
-***frame level processing
+***frame level processing***
+
 **[1] XingGAN for Person Image Generation**
 - intro: ECCV 2020, person image
 - DATASET: Market-1501, DeepFashion
@@ -74,7 +75,7 @@
 - https://github.com/Zhangjinso/Awesome-pose-transfer
 
 
-***Still image animation
+***Still image animation***
 
 **[1] Animating Pictures with Eulerian Motion Fields**
 - intro: arxiv 2020, code coming soon
