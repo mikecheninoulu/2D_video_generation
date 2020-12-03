@@ -70,8 +70,8 @@
 - paper: [https://arxiv.org/pdf/2006.04898.pdf](https://arxiv.org/pdf/2006.04898.pdf)
 - github: [https://github.com/MKnoche/warp3d_reposing](https://github.com/MKnoche/warp3d_reposing)
 
-Other summary about 2D pose image transfer
-https://github.com/Zhangjinso/Awesome-pose-transfer
+**Other summary about 2D pose image transfer**
+- https://github.com/Zhangjinso/Awesome-pose-transfer
 
 
 ***Still image animation
@@ -88,24 +88,13 @@ https://github.com/Zhangjinso/Awesome-pose-transfer
 
 
 ## DATASET
-Bair. This dataset can be directly downloaded.
-
-Mgif. This dataset can be directly downloaded.
-
-Fashion. Follow the instruction on dataset downloading from.
-
-Taichi. Follow the instructions in data/taichi-loading or instructions from https://github.com/AliaksandrSiarohin/video-preprocessing.
-
-Nemo. Please follow the instructions on how to download the dataset. Then the dataset should be preprocessed using scripts from https://github.com/AliaksandrSiarohin/video-preprocessing.
-
-VoxCeleb. Please follow the instruction from https://github.com/AliaksandrSiarohin/video-preprocessing.
 
 **[1] Voxceleb1,2**
 - intro: face dataset, with audio
 - processing: https://github.com/AliaksandrSiarohin/video-preprocessing#preprocessing-voxceleb-dataset
 - project: [https://www.robots.ox.ac.uk/~vgg/data/voxceleb/](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)
 
-**[2] Taichi **
+**[2] Taichi**
 - intro: taichi action
 - project: [https://vision.cs.ubc.ca/datasets/fashion/](https://vision.cs.ubc.ca/datasets/fashion/)
 - source: https://github.com/AliaksandrSiarohin/first-order-model/blob/master/data/taichi-loading/README.md
@@ -118,7 +107,6 @@ VoxCeleb. Please follow the instruction from https://github.com/AliaksandrSiaroh
 **[4] Moving GIF**
 - intro: moving gif relatively simple
 - source: [https://yadi.sk/d/5VdqLARizmnj3Q](https://yadi.sk/d/5VdqLARizmnj3Q)
-
 
 **[6] BAIR robot pushing dataset**
 - intro: robot arm moving dataset
@@ -148,7 +136,7 @@ VoxCeleb. Please follow the instruction from https://github.com/AliaksandrSiaroh
 - paper: [https://arxiv.org/pdf/2012.00230.pdf](https://arxiv.org/pdf/2012.00230.pdf)
 
 
-## video generation theory without code
+## Video Generation Theory Without Code
 
 **[1] : DIVERSE VIDEO GENERATION USING A GAUSSIAN PROCESS TRIGGER**
 - intro: ICLR 2021, score 6,6,6,
