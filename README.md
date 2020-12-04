@@ -28,19 +28,19 @@
 - project: https://nvlabs.github.io/few-shot-vid2vid/
 
 **[5] One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing**
-- intro: CVPR 2021, NVIDIA, code hard
+- intro: 2020 arxiv, NVIDIA, code hard
 - paper: [https://nvlabs.github.io/face-vid2vid/main.pdf](https://nvlabs.github.io/face-vid2vid/main.pdf)
 - github: [https://github.com/NVlabs/face-vid2vid](https://github.com/NVlabs/face-vid2vid)
 - project: https://nvlabs.github.io/face-vid2vid/
 
 **[6] Adaptive Compact Attention For Few-shot Video-to-video Translation**
-- intro: CVPR 2021 arxiv
+- intro: 2020 arxiv
 - paper: [https://arxiv.org/abs/2011.14695](https://arxiv.org/abs/2011.14695)
 - project: https://www.youtube.com/watch?v=1OCFbUrypKQ
 
 
 **[7] Single-Shot Freestyle Dance Reenactment**
-- intro: CVPR 2021 arxiv, results are impressive, Facebook
+- intro: 2020 arxiv, results are impressive, Facebook
 - paper: [https://arxiv.org/abs/2012.01158v1](https://arxiv.org/abs/2012.01158v1)
 - project: https://www.youtube.com/watch?v=Rq5U5Abj47I&feature=youtu.be
 
@@ -66,7 +66,7 @@
 - github: [https://github.com/NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
 
 **[4] Reposing Humans by Warping 3D Features**
-- intro: BMVC 2020 Oral, cross reason graph
+- intro: CVPR 2020 workshop, cross reason graph
 - DATASET: iPER, deep fashion
 - paper: [https://arxiv.org/pdf/2006.04898.pdf](https://arxiv.org/pdf/2006.04898.pdf)
 - github: [https://github.com/MKnoche/warp3d_reposing](https://github.com/MKnoche/warp3d_reposing)
