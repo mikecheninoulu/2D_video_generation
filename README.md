@@ -54,7 +54,7 @@
 - github: [https://github.com/Ha0Tang/XingGAN](https://github.com/Ha0Tang/XingGAN)
 
 **[2] Bipartite Graph Reasoning GANs for Person Image Generation**
-- intro: ECCV 2020, person image
+- intro: BMVC 2020 Oral, person image
 - DATASET: Market-1501, DeepFashion
 - paper: [https://arxiv.org/abs/2008.04381](https://arxiv.org/abs/2008.04381)
 - github: [https://github.com/Ha0Tang/BiGraphGAN](https://github.com/Ha0Tang/BiGraphGAN)
