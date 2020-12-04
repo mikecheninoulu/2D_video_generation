@@ -44,6 +44,8 @@
 - paper: [https://arxiv.org/abs/2012.01158v1](https://arxiv.org/abs/2012.01158v1)
 - project: https://www.youtube.com/watch?v=Rq5U5Abj47I&feature=youtu.be
 
+**Other summary about video generation**
+- https://github.com/yule-li/Human-Video-Generation
 
 ***-frame level processing***
 
