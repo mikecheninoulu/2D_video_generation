@@ -1,4 +1,4 @@
-# 2D Video Generation Papers
+# Video Generation Papers
 
 ## STOTA methods
 
