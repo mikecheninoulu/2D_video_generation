@@ -66,7 +66,7 @@
 - github: [https://github.com/NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
 
 **[4] Reposing Humans by Warping 3D Features**
-- intro: CVPR 2020 workshop, cross reason graph
+- intro: CVPR 2020 workshop, 3D component
 - DATASET: iPER, deep fashion
 - paper: [https://arxiv.org/pdf/2006.04898.pdf](https://arxiv.org/pdf/2006.04898.pdf)
 - github: [https://github.com/MKnoche/warp3d_reposing](https://github.com/MKnoche/warp3d_reposing)
@@ -109,16 +109,16 @@
 - intro: moving gif relatively simple
 - source: [https://yadi.sk/d/5VdqLARizmnj3Q](https://yadi.sk/d/5VdqLARizmnj3Q)
 
-**[6] BAIR robot pushing dataset**
+**[5] BAIR robot pushing dataset**
 - intro: robot arm moving dataset
 - project: [http://rail.eecs.berkeley.edu/models/savp/tables/bair_all/](http://rail.eecs.berkeley.edu/models/savp/tables/bair_all/)
 
-**[5] Deep fasion**
+**[6] Deep fasion**
 - intro: person with cloth, dressing dataset 
 - project: [http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 - prepare: https://github.com/Ha0Tang/SelectionGAN/tree/master/person_transfer#data-preperation
 
-**[6] Market-1501 Dataset**
+**[7] Market-1501 Dataset**
 - intro: person on the streest, orinigally ReID dataset, 
 - project: [https://deepai.org/dataset/market-1501](https://deepai.org/dataset/market-1501)
 - prepare: https://github.com/Ha0Tang/SelectionGAN/tree/master/person_transfer#data-preperation
