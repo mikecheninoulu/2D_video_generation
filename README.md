@@ -90,6 +90,14 @@
 - code: https://github.com/tamarott/SinGAN
 
 
+**[3] Pose-Guided Human Animation from a Single Image in the Wild**
+- intro: densepose giuded pose animation
+- paper: [https://arxiv.org/pdf/2012.03796.pdf](https://arxiv.org/pdf/2012.03796.pdf)
+- code: https://www.youtube.com/watch?v=x7H0kKWzRFU&t=4s
+
+
+
+
 ## DATASET
 
 **[1] Voxceleb1,2**
