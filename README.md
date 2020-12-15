@@ -44,8 +44,19 @@
 - paper: [https://arxiv.org/abs/2012.01158v1](https://arxiv.org/abs/2012.01158v1)
 - project: https://www.youtube.com/watch?v=Rq5U5Abj47I&feature=youtu.be
 
+
+**[8] Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis**
+- intro: 2020 arxiv, results are impressive, Facebook
+- paper: [https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Liquid_Warping_GAN_A_Unified_Framework_for_Human_Motion_Imitation_ICCV_2019_paper.pdf)
+- project: https://github.com/svip-lab/impersonator
+- code: https://github.com/iPERDance/iPERCore
+
+
 **Other summary about video generation**
 - https://github.com/yule-li/Human-Video-Generation
+
+
+
 
 ***-frame level processing***
 
