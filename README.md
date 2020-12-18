@@ -51,6 +51,9 @@
 - project: https://github.com/svip-lab/impersonator
 - code: https://github.com/iPERDance/iPERCore
 
+**[9] Pose-Guided High-Resolution Appearance Transfer via Progressive Training**
+- intro: 2020 arxiv, results are impressive, Facebook
+- paper: [https://arxiv.org/pdf/2008.11898.pdf](https://arxiv.org/pdf/2008.11898.pdf)
 
 **Other summary about video generation**
 - https://github.com/yule-li/Human-Video-Generation
