@@ -1,6 +1,6 @@
 # Video Generation Papers
 
-## STOTA methods
+## SOTA methods
 
 ***-video level processing***
 
