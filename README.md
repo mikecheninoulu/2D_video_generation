@@ -28,7 +28,7 @@
 - project: https://nvlabs.github.io/few-shot-vid2vid/
 
 **[5] One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing**
-- intro: 2020 arxiv, NVIDIA, code hard
+- intro: CVPR 2021, NVIDIA, code hard
 - paper: [https://nvlabs.github.io/face-vid2vid/main.pdf](https://nvlabs.github.io/face-vid2vid/main.pdf)
 - github: [https://github.com/NVlabs/face-vid2vid](https://github.com/NVlabs/face-vid2vid)
 - project: https://nvlabs.github.io/face-vid2vid/
