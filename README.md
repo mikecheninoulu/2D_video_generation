@@ -105,6 +105,13 @@
 - github: https://github.com/Zhangjinso/PISE 
 - project: http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html
 
+**[7] Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans**
+- intro: CVPR 2021, Facebook, enables texture editing, textured 3D human mesh
+- DATASET: deep fashion
+- paper: [https://arxiv.org/pdf/2103.17266.pdf](https://arxiv.org/pdf/2103.17266.pdf)
+- github: https://github.com/Zhangjinso/PISE 
+- project: http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html
+
 
 **Other summary about 2D pose image transfer**
 - https://github.com/Zhangjinso/Awesome-pose-transfer
