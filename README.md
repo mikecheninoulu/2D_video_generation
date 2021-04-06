@@ -55,10 +55,14 @@
 - intro: 2020 arxiv, results are impressive, Facebook
 - paper: [https://arxiv.org/pdf/2008.11898.pdf](https://arxiv.org/pdf/2008.11898.pdf)
 
+**[10] Playable Video Generation**
+- intro: 2021 CVPR, 
+- paper: [https://arxiv.org/pdf/2101.12195.pdf](https://arxiv.org/pdf/2101.12195.pdf)
+- project:https://willi-menapace.github.io/playable-video-generation-website/
+
+
 **Other summary about video generation**
 - https://github.com/yule-li/Human-Video-Generation
-
-
 
 
 ***-frame level processing***
@@ -86,6 +90,21 @@
 - DATASET: iPER, deep fashion
 - paper: [https://arxiv.org/pdf/2006.04898.pdf](https://arxiv.org/pdf/2006.04898.pdf)
 - github: [https://github.com/MKnoche/warp3d_reposing](https://github.com/MKnoche/warp3d_reposing)
+
+**[5] HumanGAN: A Generative Model of Human Images**
+- intro: CVPR 2021, Max Planck, can manipulate pose, style and local body style
+- DATASET: deep fashion
+- paper: [https://arxiv.org/pdf/2103.06902.pdf](https://arxiv.org/pdf/2103.06902.pdf)
+- github: only processing :https://github.com/AliaksandrSiarohin/pose-gan
+- project: http://gvv.mpi-inf.mpg.de/projects/HumanGAN/
+
+**[6] PISE: Person Image Synthesis and Editing with Decoupled GAN**
+- intro: CVPR 2021, Tianjin University, enables region editing
+- DATASET: deep fashion
+- paper: [https://arxiv.org/pdf/2103.04023.pdf](https://arxiv.org/pdf/2103.04023.pdf)
+- github: https://github.com/Zhangjinso/PISE 
+- project: http://cic.tju.edu.cn/faculty/likun/projects/PISE/index.html
+
 
 **Other summary about 2D pose image transfer**
 - https://github.com/Zhangjinso/Awesome-pose-transfer
